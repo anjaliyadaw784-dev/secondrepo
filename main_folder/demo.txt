@@ -21,3 +21,6 @@ main to b2
 
 added more lines in b2
 and i am changing it 
+
+for tag 
+git tag "tag name"
